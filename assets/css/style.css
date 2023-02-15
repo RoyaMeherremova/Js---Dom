@@ -1,0 +1,35 @@
+
+
+/* .header{
+    color:yellow;
+}
+.active {
+    color:red;
+} */
+
+/* body{
+    background-color: black;
+}
+#products .icon {
+    height: 500px;
+}
+#products .icon i{
+    color:gray;
+    font-size: 70px;
+}
+
+.active-icon{
+    color:yellow !important;
+}
+.active-body{
+    background-color: white !important;
+} */
+
+
+ body{
+    background-color: gray;
+}
+button{
+    display: block !important;
+    margin:0 auto !important;
+}
